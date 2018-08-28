@@ -1,0 +1,28 @@
+{
+  "name": "ideploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iDeploy.js",
+  "scripts": {
+    "start": "node iDeploy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Ingaflex/iDeploy/issues"
+  },
+  "homepage": "https://gitlab.com/Ingaflex/iDeploy#README",
+  "dependencies": {
+    "extend": "^3.0.2",
+    "file-system": "^2.2.2",
+    "mysql": "^2.16.0",
+    "read-text-file": "^1.1.0",
+    "shelljs": "^0.8.2",
+    "node-datetime": "^2.0.9"
+  }
+}

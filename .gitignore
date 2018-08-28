@@ -1,0 +1,6 @@
+/nbproject/
+/node_modules/
+/rep/*
+!/rep/.gitkeep*
+logShell.log 
+logSql.log 
